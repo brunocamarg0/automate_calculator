@@ -1,6 +1,6 @@
-#Calculadora
+# Calculadora
 
-Para executar o arquivo em .sh, você deve criar um script no Power Shell:
+# Para executar o arquivo em .sh, você deve criar um script no Power Shell:
 
 Passo 1: Digite no seu Power Shell o comando nano calculadora.sh
 Passo 2: Crie um script no qual automatize o executavel da calculadora, segue exemplo abaixo:
